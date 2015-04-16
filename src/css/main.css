@@ -2,14 +2,6 @@ body {
   background-color: rgb(205, 238, 236);
  }
 
- .nav1{
-  display: inline;
-}
-
-.signin {
-  display: inline;
-}
-
 .topcontainer2 {
   background-color: white;
   border-radius: 25px;
