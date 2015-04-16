@@ -4,11 +4,13 @@
 –––––––––––––––––––––––––––––––––––––––––*/
 body {
   background-color: rgb(205, 238, 236);
- }
-
+}
  /* Nav1
 –––––––––––––––––––––––––––––––––––––––––*/
 .nav1{
   display: inline;
 }
 
+.rownav {
+  background: white;
+}
