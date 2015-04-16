@@ -1,22 +1,17 @@
-/* SignIn Signup
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.signin {
-  display: inline;
-}
-
-.signup {
-  display: inline;
-}
-
-/* Background
-–––––––––––––––––––––––––––––––––––––––––*/
 body {
   background-color: rgb(205, 238, 236);
  }
 
- /* Nav1
-–––––––––––––––––––––––––––––––––––––––––*/
-.nav1{
+ .nav1{
   display: inline;
 }
 
+.signin {
+  display: inline;
+}
+
+.topcontainer2 {
+  background-color: white;
+  border-radius: 25px;
+  height: 100%;
+}
