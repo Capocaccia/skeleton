@@ -1,20 +1,24 @@
 body {
-  background-color: rgb(205, 238, 236);
-<<<<<<< HEAD
+  background-color: #78cbd1;
+  margin: -10px 0 0 0;
 }
 
 .topcontainer2 {
   background-color: white;
   border-radius: 1em 1em 0 0;
-  height: 100%;
 }
 
-#test {
+.topcontainer1 {
+  background-color: #d6f1f0;
+}
+
+#sign {
   width: 60%;
+  margin: 45% 0 0 0;
 }
 
 .savings {
-  margin-top: -35px;
+  margin-top: -50px;
 }
 
 .logo {
@@ -22,14 +26,20 @@ body {
 }
 
 .pink li {
-  padding: 2px 0 0 0;
+  padding: 5px 0 0 0;
   display: inline;
  }
 
 .pink {
    background-color: #f4cbd3;
+   width: 100%;
  }
 
  .search {
    margin: 5px 0;
  }
+
+ .content {
+  background-color: white;
+  border-radius: 0 0 1em 1em;
+}
