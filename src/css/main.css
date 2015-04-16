@@ -1,9 +1,36 @@
 body {
   background-color: rgb(205, 238, 236);
- }
+}
 
 .topcontainer2 {
   background-color: white;
-  border-radius: 25px;
+  border-radius: 1em 1em 0 0;
   height: 100%;
 }
+
+#sign {
+  width: 60%;
+  margin: 45% 0 0 0;
+}
+
+.savings {
+  margin-top: -50px;
+}
+
+.logo {
+  margin-top: 7.5%;
+}
+
+.pink li {
+  padding: 5px 0 0 0;
+  display: inline;
+ }
+
+.pink {
+   background-color: #f4cbd3;
+   width: 100%;
+ }
+
+ .search {
+   margin: 5px 0;
+ }
