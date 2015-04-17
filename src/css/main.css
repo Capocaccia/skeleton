@@ -42,6 +42,7 @@ body {
  .content {
   background-color: white;
   border-radius: 0 0 1em 1em;
+<<<<<<< HEAD
 }
 
 p {
@@ -59,3 +60,10 @@ p {
 
 
 
+=======
+ }
+
+ p {
+   display: inline;
+ }
+>>>>>>> 07e80545111401e443735aaaab16d835aa7c41b2
