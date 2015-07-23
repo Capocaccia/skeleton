@@ -1,2 +1,4 @@
 # skeleton
-Using Skeleton Framework
+Just a simple page mockup using the Skeleton css framework.
+
+http://getskeleton.com/

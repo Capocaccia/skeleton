@@ -44,9 +44,8 @@ body {
  .content {
   background-color: white;
   border-radius: 0 0 1em 1em;
-  margin: -25px 159.5px 0 159.5px;
-
-    }
+  margin: -25px 10% 0 12.5%;
+}
 
  p {
    display: inline;
@@ -81,3 +80,27 @@ body {
    margin: 10px 0 10px 10px;
   }
 
+  .button {
+  border-radius: 2em 2em 2em 2em;
+  color: white;
+}
+
+.button:first-child {
+  background-color: #78cbd0;
+  border-color: #78cbd0;
+}
+
+.button:nth-child(2) {
+  background-color: #8db639;
+  border-color: #8db639;
+}
+
+.button:nth-child(3) {
+  background-color: #6f30ac;
+  border-color: #6f30ac;
+}
+
+.button:nth-child(4) {
+  background-color: #e916bc;
+  border-color: #e916bc;
+}
